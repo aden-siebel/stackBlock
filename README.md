@@ -4,7 +4,8 @@
 Solves a dynamic programming problem, where three dimensional blocks need to be stacked on top of one another in an efficient way to create the tallest possible tower.
 Completed for CS140 at Pomona. 
 
-How to run
+How to run:
+
 Make sure that the input file is in the same folder as where you are running the following commands. 
 javac Block.java BlockStacker.java 
 java BlockStacker -path to input.txt- -path to output.txt-
